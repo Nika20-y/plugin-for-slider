@@ -6,4 +6,7 @@ export class ProgressBar{
             progressBar.classList.add("slider__between-range");
             scale.appendChild(progressBar);
         }
+    setWidth(progress:HTMLElement, position: number){
+        progress.style.width = String(position)+'px';
+    }
 }

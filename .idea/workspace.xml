@@ -20,17 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26882c88-862d-4dce-b847-b468790af2ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/task4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model/slider.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/progressBar.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/scale.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/scale.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/View/slider.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/slider.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/slider.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/mainSlider.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/mainSlider.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/progressBar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/progressBar.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/scale.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/scale.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/slider.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/slider.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +43,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="TypeScript File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1oCemR4wNsLDLfPWp0F1RzHETtY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,7 +69,6 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.4" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.25" />
@@ -76,17 +83,25 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yurch\Desktop\task4\src" />
       <recent name="C:\Users\yurch\Desktop\task4\dist" />
       <recent name="C:\Users\yurch\Desktop\task4\public" />
-      <recent name="C:\Users\yurch\Desktop\task4\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.bundle.js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63341/task4/dist/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="bundle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dist/bundle.js" working-dir="$PROJECT_DIR$/dist">
+      <method v="2" />
+    </configuration>
     <configuration name="scale.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/View/scale.js" working-dir="$PROJECT_DIR$/View">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.bundle.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.scale.js" />
       </list>
     </recent_temporary>
@@ -113,7 +128,11 @@
       <workItem from="1613034579836" duration="86000" />
       <workItem from="1613034946742" duration="83000" />
       <workItem from="1613035731172" duration="455000" />
-      <workItem from="1613036562113" duration="9436000" />
+      <workItem from="1613036562113" duration="14805000" />
+      <workItem from="1613112109663" duration="609000" />
+      <workItem from="1613112731986" duration="15675000" />
+      <workItem from="1613147251039" duration="1797000" />
+      <workItem from="1613378230194" duration="22623000" />
     </task>
     <servers />
   </component>

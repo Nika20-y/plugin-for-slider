@@ -6,5 +6,9 @@ export class Slider {
         button.classList.add("slider__button");
         scale.appendChild(button);
     }
+
+    setPosition(button: HTMLElement, position:number){
+        button.style.marginLeft = String(position)+'px';
+    }
 }
 

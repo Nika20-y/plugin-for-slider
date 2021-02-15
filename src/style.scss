@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.slider__scale {
+  margin-top: 10%;
+  position: relative;
+  height: 19px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #C4C4C4;
+}
+
+.slider__between-range{
+  position: absolute;
+  height: 18px;
+  border-radius: 8px;
+  background: #FFA800;
+}
+.slider__button{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  border-radius: 50%;
+  background: green;
+}
